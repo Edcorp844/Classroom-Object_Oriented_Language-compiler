@@ -1,0 +1,27 @@
+CLASS
+CLASS_NAME(A)
+LBRACE
+IDENT(long)
+COLON
+CLASS_NAME(String)
+ASSIGN
+ILLEGAL(String constant too long)
+SEMICOLON
+IDENT(null)
+COLON
+CLASS_NAME(String)
+ASSIGN
+ILLEGAL(String contains null character)
+SEMICOLON
+IDENT(unterminated)
+COLON
+CLASS_NAME(String)
+ASSIGN
+ILLEGAL(Unterminated string constant)
+SEMICOLON
+IDENT(eof)
+COLON
+CLASS_NAME(String)
+ASSIGN
+ILLEGAL(EOF in string constant)
+END

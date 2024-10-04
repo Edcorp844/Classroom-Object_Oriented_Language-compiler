@@ -1,0 +1,12 @@
+prelude : allocator | mallocator
+raylib : prelude
+raylib : mallocator | allocator
+raylib : data
+data : prelude
+data : allocator | mallocator
+random : prelude
+threading : prelude
+threading : mallocator | allocator
+net : prelude
+net : mallocator | allocator
+allocator ^ mallocator
