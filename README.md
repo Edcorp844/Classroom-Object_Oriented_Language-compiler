@@ -86,9 +86,9 @@ this will create `coolc.tar.gz` with the compiler and the standard library.
 ## Contributors and teachers.
 This wouldn't have been possible if it were not fo these people who I honor and respect allot and lear from every day of my life.
 
-[Alex the Dev](https://github.com/alexjercan)
+[Mr. Alexandru Jercan](https://github.com/alexjercan)
 
->> I recommend that you watch his [youTube Video](https://www.youtube.com/watch?v=l3AeN4wQirE&t=1184s) and please like and subscribe to his channel for more learning
+>> I recommend that you watch his [youTube Video](https://www.youtube.com/watch?v=l3AeN4wQirE&t=1184s) and please like and subscribe to his channel (Alex The Dev) for more learning
 
 [TuniFy Basic](https://github.com/TunifyBasic)
 
